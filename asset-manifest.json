@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/video_site_react/static/css/main.948d569c.css",
+    "main.js": "/video_site_react/static/js/main.026e8f22.js",
+    "index.html": "/video_site_react/index.html",
+    "main.948d569c.css.map": "/video_site_react/static/css/main.948d569c.css.map",
+    "main.026e8f22.js.map": "/video_site_react/static/js/main.026e8f22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.948d569c.css",
+    "static/js/main.026e8f22.js"
+  ]
+}
