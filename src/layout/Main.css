@@ -1,0 +1,18 @@
+:root{
+    --color1:#00ff91;
+    --color2:#ffff00;
+}
+
+
+.main{
+    min-height: calc(100vh - 82px - 41px);
+    background: var(--color1);
+    background: -moz-linear-gradient(left, var(--color1) 0%, var(--color2) 100%);
+    background: -webkit-linear-gradient(left, var(--color1) 0%, var(--color2) 100%);
+    background: linear-gradient(to right, var(--color1) 0%, var(--color2) 100%);
+}
+
+.card{
+    background: #FFF;
+}
+

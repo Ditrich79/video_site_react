@@ -1,0 +1,63 @@
+.search{
+    margin: 0 50px 0;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.search input{
+    padding: 20px 10px 10px;
+    border: solid #030392;
+    width: calc(100% - 100px);
+    color: #999;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.search input:focus{
+    outline: none;
+    /* border-bottom: 1px solid #ccc; */
+}
+
+/* .search .btn{
+    color: black;
+    padding: 10px 50px;
+    font-size: larger;
+    font-weight: 600;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    border-radius: 10px;
+    box-shadow: 1px 1px 4px 2px #CCC;
+    cursor: pointer;
+}
+.btn:hover{
+    background: #030392;
+    color: #FFF;
+} */
+
+.btn{
+    padding: 6px 16px;
+    background: #030392;
+    border: 2px solid #030392;
+    color: #FFF;
+    font-weight: bold;
+    box-shadow: inset 1px 1px 4px 2px #FFF;
+    border-radius: 6px;
+    outline: none;
+    cursor: pointer;
+}
+
+.radio{
+    margin: 20px 50px 0;
+}
+
+.radio span{
+    margin-right: 60px;
+}
+
+.navigation{
+    margin: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
